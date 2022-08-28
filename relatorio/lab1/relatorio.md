@@ -14,7 +14,9 @@ Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/AED
 
 Usei a logica de dividir o número e depois somar os dois, e com o número encontrado fiz a raiz quadrada
 
+## imagem do resultado
 ![image](https://user-images.githubusercontent.com/98031438/187095284-4e9add9d-a6dc-458d-8b05-255cb26d6f3a.png)
+
 
 
 # ex002
@@ -30,6 +32,15 @@ Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/AED
 Primeiro fiz um teste para saber se o número era ou não primo fazendo uma função, depois testei se ele era ou não primo 
 A segunda parte dos números perfeitos fiz um for para verificar se ele era ou não perfeito
 
+## primeira parte 
+![image](https://user-images.githubusercontent.com/98031438/187095382-fe144f59-4ca4-4561-bab3-3c4967ad9bbd.png)
+
+## parte dois
+
+![image](https://user-images.githubusercontent.com/98031438/187095424-48ebf207-e5a5-40d2-93ff-855f02f89216.png)
+
+
+
 # ex003
 
 Faça um programa que receba os elementos de dois vetores, A e B, cada um com 5 posições. 
@@ -42,6 +53,12 @@ Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/AED
 primeiramente fiz uma função que lê todos os elementos dos vetores depois usei a logica de comparação para ver quais estavam presentes nos dois vetores
 e depois fiz a diferença para ver quais os elementos não estavam em nenhum dos vetores 
 
+
+## imagem do resultado
+
+![image](https://user-images.githubusercontent.com/98031438/187095463-96054446-35a7-4040-bd23-baf94f7dda0c.png)
+
+
 # ex004
 
 Faça um programa que receba os elementos de uma matriz de 5 linhas por 3 colunas. 
@@ -50,6 +67,10 @@ Mostre a soma dos elementos de cada uma das linhas e das colunas da matriz.
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/AED-PCO/lab-aed-pco-2022-2-Smartucheli/tree/main/codigo/lab1.0/ex004)
 
 Nesse exercicio usei uma logica onde percorri todo o vetor e depois somei todas as linhas e todas as colunas
+
+## imagem do resultado
+![image](https://user-images.githubusercontent.com/98031438/187095572-01ae6407-7c2b-49ab-b2b2-97edb4dc2d69.png)
+
 
 # ex005
 
@@ -60,6 +81,11 @@ Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/AED
 Nesse exercicio utilizei o metodo de recurssividade onde a minha parada é o numero 2, sabendo disso chamei a função dentro da função e fui desempilhando para 
 descobri o fatorial
 
+## imagem do resultado
+
+![image](https://user-images.githubusercontent.com/98031438/187095592-d5605fcd-cd3a-47e7-9b2e-b473a91f82a4.png)
+
+
 # ex006
 
 faça um programa que chame uma função capaz de calcular xy, sendo x e y inteiros. utilize passagem de pârametros por referencia
@@ -68,3 +94,8 @@ Você pode acessar os arquivos do projeto clicando[aqui](https://github.com/AED-
 
 Nesse exercicio utilizei duas passagens por referencia e uma retornando o valor da conta, dentro da função usei o math.pow que calucla potencia
 e na principal imprimi o resultado 
+
+
+## imagem do resultado 
+
+![image](https://user-images.githubusercontent.com/98031438/187095619-6505a896-a4e5-4c05-9018-8310f16e8aef.png)
