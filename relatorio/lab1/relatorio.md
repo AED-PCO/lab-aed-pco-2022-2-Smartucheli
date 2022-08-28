@@ -14,6 +14,9 @@ Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/AED
 
 Usei a logica de dividir o número e depois somar os dois, e com o número encontrado fiz a raiz quadrada
 
+![image](https://user-images.githubusercontent.com/98031438/187095284-4e9add9d-a6dc-458d-8b05-255cb26d6f3a.png)
+
+
 # ex002
 
 Um Número é dito Primo se possui como divisores o número 1 e ele mesmo. Em outras 
