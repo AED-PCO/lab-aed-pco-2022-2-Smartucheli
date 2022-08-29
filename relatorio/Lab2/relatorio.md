@@ -38,3 +38,14 @@ Nesse exercicio fiz uma chamada de função recursiva que me retorna a potencia 
 ## imagem do resultado 
 
 ![image](https://user-images.githubusercontent.com/98031438/187102992-87962262-62ab-4e56-94cc-102d29e35395.png)
+
+
+# exFibonacci
+
+Digitar um numero e mostrar a sequencia de fibonacci
+
+nesse exercicio usei a logica de fibonacci que é sempre somar seu antecessor assim com uma chamada recursiva consegui achar essa sequencia
+
+#imagem do resultado 
+
+![image](https://user-images.githubusercontent.com/98031438/187103167-ef9ef496-6be9-42ae-95fe-22f9709baeed.png)
