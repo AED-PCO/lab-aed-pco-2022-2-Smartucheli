@@ -25,4 +25,16 @@ para achar o resultado
 
 ## imagem do resultado 
 
+o exemplo mostra quando passo os parametros 3 e 3
 ![image](https://user-images.githubusercontent.com/98031438/187098620-6c07acf6-c105-4387-b885-92ae28f2e6ef.png)
+
+
+# Ex003
+
+• Escreva um método recursivo que realize a potenciação entre dois números inteiros, A e B, recebidos por parâmetro. Seu método deve, portanto, retornar o resultado de AB
+
+Nesse exercicio fiz uma chamada de função recursiva que me retorna a potencia nele tem um ponto de parada que é 0 pois todo numero elevado a 0 é um e depois desempilhei as contas ate achar o resultado 
+
+## imagem do resultado 
+
+![image](https://user-images.githubusercontent.com/98031438/187102992-87962262-62ab-4e56-94cc-102d29e35395.png)
