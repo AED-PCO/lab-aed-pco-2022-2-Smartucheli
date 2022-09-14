@@ -69,7 +69,8 @@ Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/AED
 Nesse exercicio usei uma logica onde percorri todo o vetor e depois somei todas as linhas e todas as colunas
 
 ## imagem do resultado
-![image](https://user-images.githubusercontent.com/98031438/187095572-01ae6407-7c2b-49ab-b2b2-97edb4dc2d69.png)
+![image](https://user-images.githubusercontent.com/98031438/190237995-aff38057-5f3b-4376-b6ed-9d637029a02a.png)
+
 
 
 # ex005
