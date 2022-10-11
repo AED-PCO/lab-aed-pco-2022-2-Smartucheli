@@ -1,7 +1,7 @@
-#Laboratorio 3 
+# Laboratorio 3 
 
 
-#ex001 
+# ex001 
 
 Pesquisa Binaria com pos 
 
@@ -12,7 +12,7 @@ Nesse exercicio utilizei um do while para passar o pelo vetor ate achar o valor 
 O valor do vetor é de [1, 2, 3, 4, 5]
 
 
-#ex002
+# ex002
 
 Pesquisa Binaria sem pos
 
