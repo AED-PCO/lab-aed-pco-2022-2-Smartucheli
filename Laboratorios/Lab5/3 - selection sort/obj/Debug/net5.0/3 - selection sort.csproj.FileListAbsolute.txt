@@ -1,0 +1,16 @@
+C:\Users\Dell\Documents\Lab5\3 - selection sort\bin\Debug\net5.0\3 - selection sort.exe
+C:\Users\Dell\Documents\Lab5\3 - selection sort\bin\Debug\net5.0\3 - selection sort.deps.json
+C:\Users\Dell\Documents\Lab5\3 - selection sort\bin\Debug\net5.0\3 - selection sort.runtimeconfig.json
+C:\Users\Dell\Documents\Lab5\3 - selection sort\bin\Debug\net5.0\3 - selection sort.runtimeconfig.dev.json
+C:\Users\Dell\Documents\Lab5\3 - selection sort\bin\Debug\net5.0\3 - selection sort.dll
+C:\Users\Dell\Documents\Lab5\3 - selection sort\bin\Debug\net5.0\ref\3 - selection sort.dll
+C:\Users\Dell\Documents\Lab5\3 - selection sort\bin\Debug\net5.0\3 - selection sort.pdb
+C:\Users\Dell\Documents\Lab5\3 - selection sort\obj\Debug\net5.0\3 - selection sort.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Lab5\3 - selection sort\obj\Debug\net5.0\3 - selection sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Lab5\3 - selection sort\obj\Debug\net5.0\3 - selection sort.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Lab5\3 - selection sort\obj\Debug\net5.0\3 - selection sort.AssemblyInfo.cs
+C:\Users\Dell\Documents\Lab5\3 - selection sort\obj\Debug\net5.0\3 - selection sort.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Lab5\3 - selection sort\obj\Debug\net5.0\3 - selection sort.dll
+C:\Users\Dell\Documents\Lab5\3 - selection sort\obj\Debug\net5.0\ref\3 - selection sort.dll
+C:\Users\Dell\Documents\Lab5\3 - selection sort\obj\Debug\net5.0\3 - selection sort.pdb
+C:\Users\Dell\Documents\Lab5\3 - selection sort\obj\Debug\net5.0\3 - selection sort.genruntimeconfig.cache

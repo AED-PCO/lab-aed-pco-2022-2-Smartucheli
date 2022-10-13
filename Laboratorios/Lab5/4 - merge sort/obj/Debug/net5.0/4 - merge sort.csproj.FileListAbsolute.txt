@@ -1,0 +1,16 @@
+C:\Users\Dell\Documents\Lab5\4 - merge sort\bin\Debug\net5.0\4 - merge sort.exe
+C:\Users\Dell\Documents\Lab5\4 - merge sort\bin\Debug\net5.0\4 - merge sort.deps.json
+C:\Users\Dell\Documents\Lab5\4 - merge sort\bin\Debug\net5.0\4 - merge sort.runtimeconfig.json
+C:\Users\Dell\Documents\Lab5\4 - merge sort\bin\Debug\net5.0\4 - merge sort.runtimeconfig.dev.json
+C:\Users\Dell\Documents\Lab5\4 - merge sort\bin\Debug\net5.0\4 - merge sort.dll
+C:\Users\Dell\Documents\Lab5\4 - merge sort\bin\Debug\net5.0\ref\4 - merge sort.dll
+C:\Users\Dell\Documents\Lab5\4 - merge sort\bin\Debug\net5.0\4 - merge sort.pdb
+C:\Users\Dell\Documents\Lab5\4 - merge sort\obj\Debug\net5.0\4 - merge sort.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Lab5\4 - merge sort\obj\Debug\net5.0\4 - merge sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Lab5\4 - merge sort\obj\Debug\net5.0\4 - merge sort.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Lab5\4 - merge sort\obj\Debug\net5.0\4 - merge sort.AssemblyInfo.cs
+C:\Users\Dell\Documents\Lab5\4 - merge sort\obj\Debug\net5.0\4 - merge sort.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Lab5\4 - merge sort\obj\Debug\net5.0\4 - merge sort.dll
+C:\Users\Dell\Documents\Lab5\4 - merge sort\obj\Debug\net5.0\ref\4 - merge sort.dll
+C:\Users\Dell\Documents\Lab5\4 - merge sort\obj\Debug\net5.0\4 - merge sort.pdb
+C:\Users\Dell\Documents\Lab5\4 - merge sort\obj\Debug\net5.0\4 - merge sort.genruntimeconfig.cache

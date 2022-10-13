@@ -1,0 +1,16 @@
+C:\Users\Dell\Documents\Lab5\6 - quick sort\bin\Debug\net5.0\6 - quick sort.exe
+C:\Users\Dell\Documents\Lab5\6 - quick sort\bin\Debug\net5.0\6 - quick sort.deps.json
+C:\Users\Dell\Documents\Lab5\6 - quick sort\bin\Debug\net5.0\6 - quick sort.runtimeconfig.json
+C:\Users\Dell\Documents\Lab5\6 - quick sort\bin\Debug\net5.0\6 - quick sort.runtimeconfig.dev.json
+C:\Users\Dell\Documents\Lab5\6 - quick sort\bin\Debug\net5.0\6 - quick sort.dll
+C:\Users\Dell\Documents\Lab5\6 - quick sort\bin\Debug\net5.0\ref\6 - quick sort.dll
+C:\Users\Dell\Documents\Lab5\6 - quick sort\bin\Debug\net5.0\6 - quick sort.pdb
+C:\Users\Dell\Documents\Lab5\6 - quick sort\obj\Debug\net5.0\6 - quick sort.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Lab5\6 - quick sort\obj\Debug\net5.0\6 - quick sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Lab5\6 - quick sort\obj\Debug\net5.0\6 - quick sort.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Lab5\6 - quick sort\obj\Debug\net5.0\6 - quick sort.AssemblyInfo.cs
+C:\Users\Dell\Documents\Lab5\6 - quick sort\obj\Debug\net5.0\6 - quick sort.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Lab5\6 - quick sort\obj\Debug\net5.0\6 - quick sort.dll
+C:\Users\Dell\Documents\Lab5\6 - quick sort\obj\Debug\net5.0\ref\6 - quick sort.dll
+C:\Users\Dell\Documents\Lab5\6 - quick sort\obj\Debug\net5.0\6 - quick sort.pdb
+C:\Users\Dell\Documents\Lab5\6 - quick sort\obj\Debug\net5.0\6 - quick sort.genruntimeconfig.cache
