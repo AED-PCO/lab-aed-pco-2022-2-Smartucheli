@@ -1,21 +1,14 @@
 ﻿using System;
 using System.IO;
 
-int l_igual = 0, l_diferente = 0;
-string texto;
+Console.WriteLine("Digite um texto no console e sabera se é igual ao texto do arquivo ");
+string texto_console = Console.ReadLine();
 
-Console.Write("Digite um texto: ");
-texto = Console.ReadLine();
+StreamReader sr = new StreamReader("arq1.txt");
+string texto_arquivo = sr.ReadLine();
 
-var file = File.ReadAllLines("arq1.txt");
-
-while(texto != ""){
-    if(texto == file){
-        Console.WriteLine("igual");
-        l_igual++;
-    } else {
-        Console.Write("Diferente");
-        l_diferente++;
-    }
+if(texto_arquivo == texto_console){
+    Console.WriteLine("Chave aceita! textos são iguais.");
+} else {
+    Console.WriteLine("Chave negada! textos não são iguais.");
 }
-
