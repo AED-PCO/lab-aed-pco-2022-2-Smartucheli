@@ -4,8 +4,9 @@
     {
         static void Main(string[] args)
         {
-            
-           
+            Lista lista = new lista();
+           insere(lista.proximo, 10);
+            tira(lista);
         }
     }
 }

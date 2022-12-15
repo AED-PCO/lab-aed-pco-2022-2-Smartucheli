@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Laboratorios"
+    "\\Laboratorios",
+    "\\Laboratorios\\lab10"
   ],
-  "SelectedNode": "\\Laboratorios",
+  "SelectedNode": "\\Laboratorios\\lab10\\lista dinamica",
   "PreviewInSolutionExplorer": false
 }
